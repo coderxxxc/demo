@@ -1,4 +1,4 @@
 # demo
 first Git repository.
 <br>
-Author- Sayan Sarkarr
+Author- Sayan Sarkar
